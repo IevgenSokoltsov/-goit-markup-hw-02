@@ -1,11 +1,22 @@
-body{
+
+.body{
     font-family: "Roboto";
-    
 }
 
-nav{
-    color: #2E2F42;
+
+.header {
 }
-a {
-    color: aqua;
+.header-logo {
+}
+.header-navig {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+}
+.header-mail {
+}
+.header-tel {
 }
