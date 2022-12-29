@@ -1,6 +1,6 @@
 
 body{
-    font-family: "Roboto";
+    font-family: "Roboto","Raleway",sans-serif;
 }
 
 
@@ -27,7 +27,6 @@ color: #4D5AE5;
 }
 .header-link {
 
-font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 24px;
@@ -35,7 +34,6 @@ color: #2E2F42;
 }
 .header-mail {
 
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -43,7 +41,6 @@ color: #434455;
 }
 .header-tel {
 
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
