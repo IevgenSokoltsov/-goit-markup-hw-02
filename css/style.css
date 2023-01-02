@@ -60,7 +60,9 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 color: #FFFFFF;
 }
-.section-btn {
+.btn-list {
+}
+.section-btn:hover, .section-btn:focus {
 font-family: inherit;
 font-weight: 500;
 font-size: 16px;
@@ -68,4 +70,5 @@ line-height: 1.33;
 letter-spacing: 0.04em;
 color: #FFFFFF;
 background: #4D5AE5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 } 
